@@ -274,7 +274,7 @@ body {
 .hero-content h2 {
   font-size: 1.8rem;
   letter-spacing: 0.08em;
-  margin: 0 auto;
+  margin: 0 auto 24px;
   max-width: 760px;
   animation: typeWriter 2s steps(40, end) 1.2s both;
 }
@@ -289,7 +289,7 @@ body {
 }
 
 .hero-subtitle {
-  margin: 0 auto;
+  margin: 24px auto 0;
   max-width: 680px;
   padding: 28px 24px;
   border: 2px solid var(--border);
